@@ -1,16 +1,16 @@
 {
     "id": "zodiac",
     "name": "Zodiac Signs",
-    "description": "zodiac sign with birth dates",
+    "description": "zodiac signs with birth dates",
     "metadata": {
         "sourceName": "Wikipedia",
         "sourceUrl": "https://en.wikipedia.org/wiki/Zodiac"
     },
-    "aliases":["zodiac sign"],
+    "aliases":["zodiac signs"],
     "template_type": "reference",
-    "section_order": ["Sign"],
+    "section_order": ["Signs"],
     "sections": {
-        "Sign": [{
+        "Signs": [{
             "val": "Date : March 21 -April 19",
             "key": "Aries"
         }, {
